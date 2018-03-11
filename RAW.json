@@ -1,0 +1,19 @@
+{
+  "reponame":"Fam",
+  "repologo":"https://drive.google.com/file/d/14g8tfMG-HimUaJdJKtVyGEYItvS6-1Fz/view?usp=sharing",
+  "repoauthor":"papaya de celaya",
+  "repodesc":"idk fam i kind of want to die.",
+  "categories":[
+    {
+      "categoryname":"Category Name",
+      "games":[
+        {
+          "name":"excite bike",
+          "link":"https://drive.google.com/file/d/1vNdbtjLDG4BLb3Ppggk1wq5CR3vsUwxX/view?usp=sharing",
+          "boxart":"https://goo.gl/images/xyZ4dY",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
